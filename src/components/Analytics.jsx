@@ -56,10 +56,10 @@ const Analytics = () => {
           </div>
 
           <div className="bg-black text-white w-36 h-15 px-2 rounded-md">
-            <div className="pt-1">
+            <div className="pt-2">
               We Shape 
             </div>
-            <div className="pb-1">
+            <div className="pb-2">
                A Brighter Future
             </div>
           </div>
