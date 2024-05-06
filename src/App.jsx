@@ -10,6 +10,8 @@ import Explore from './components/Explore'
 import Live from './components/Live'
 import Learners from './components/Learners'
 import Think from './components/Think'
+import Talk from './components/Talk'
+import Newsletter from './components/Newsletter'
 
 const App = () => {
   return (
@@ -23,7 +25,9 @@ const App = () => {
       <Explore />
       <Live />
       <Learners />
-      <Think/>
+      <Think />
+      <Talk />
+      <Newsletter/>
     </>
   );
 }
